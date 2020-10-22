@@ -1,7 +1,7 @@
 # QGIS3 default
 QGISDIR=.local/share/QGIS/QGIS3/profiles/default
 
-PLUGIN_NAME = synthwave
+PLUGIN_NAME = monokai
 
 EXTRAS = metadata.txt icon.png
 
